@@ -83,7 +83,7 @@ Temps de réponse : Temps réel
 Notre équipe est composée d'étudiants passionnés par l'innovation technologique et déterminés à apporter des solutions concrètes aux défis de notre société.
 | NOM | Matricule |
 |-----------|-----------|
-| MEKIAGE Olivier (Chef de groupe) | 21p** |
+| MEKIAGE Olivier (Chef de groupe) | 21p369 |
 | KUATE KAMGA Brayan | 21p130 |
 | NGUEPSSI Brayanne | 23P780 |
 | NTYE EBO’O Nina |  21P223 |
