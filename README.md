@@ -67,8 +67,10 @@ Temps de réponse : Temps réel
 
 ## Équipe du projet
 Notre équipe est composée d'étudiants passionnés par l'innovation technologique et déterminés à apporter des solutions concrètes aux défis de notre société.
-- MEKIAGE Olivier (Chef) | 21p**
-- KUATE KAMGA Brayan | 21p130
+| NOM | Matricule |
+|-----------|-----------|
+| MEKIAGE Olivier (Chef) | 21p** |
+| KUATE KAMGA Brayan | 21p130 |
 
 ## Contribution
 Nous encourageons les contributions de la communauté universitaire et des professionnels du secteur. Pour contribuer :
