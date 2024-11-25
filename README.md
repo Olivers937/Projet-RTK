@@ -107,7 +107,7 @@ Notre repository est organisé de manière à faciliter l'accès aux différente
 │
 ├── 📁 Rapports_Hebdomadaires/
 │   ├── 📁 Semaine_1/
-│   │   ├── 📄 rapport_s1.pdf
+│   │   ├── 📄 rapport_s1.docx
 │   │   ├── 📁 images/
 │   │   └── 📁 videos/
 │   ├── 📁 Semaine_2/
