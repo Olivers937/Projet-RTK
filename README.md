@@ -2,8 +2,13 @@
 ## Système de Géolocalisation de Précision
 *Polytechnique Yaoundé - 4ème année Génie Informatique*
 
+*Unité d'enseignement : Électronique et Interfaçage*  
+*Superviseur : Dr. CHANA Anne Marie*
+
 ## À propos du projet
-Le Projet RTK est une initiative innovante développée par un groupe d'étudiants en 4ème année de Génie Informatique à Polytechnique Yaoundé, visant à implémenter un système de géolocalisation de haute précision adapté aux besoins spécifiques de notre communauté camerounaise.
+Le RTK (Real Time Kinematic) est une technologie de pointe qui révolutionne la géolocalisation de précision à travers le monde. Déjà largement utilisée dans l'agriculture de précision en Europe et en Amérique du Nord, cette technologie permet notamment aux agriculteurs d'optimiser leurs opérations avec une précision centimétrique. Elle est également déployée dans des domaines aussi variés que la construction intelligente, la cartographie haute précision et même la conduite autonome.
+
+Dans le cadre de notre formation à Polytechnique Yaoundé, notre groupe d'étudiants en 4ème année de Génie Informatique entreprend d'adapter cette technologie pour répondre aux besoins spécifiques de notre communauté camerounaise. Notre projet vise à implémenter un système RTK accessible et adapté au contexte local, permettant d'explorer les possibilités d'applications dans l'agriculture, la topographie et l'urbanisme en Afrique.
 
 ## Objectifs du projet
 * Développer un réseau de bases GNSS accessible et abordable
@@ -79,4 +84,6 @@ Pour plus d'informations sur le projet, contactez l'équipe de développement à
 Ce projet est sous licence MIT - voir le fichier [LICENSE.md](LICENSE.md) pour plus de détails.
 
 ---
-*Projet développé dans le cadre du cursus de Génie Informatique à Polytechnique Yaoundé, 2024*
+*Projet développé dans le cadre de l'UE Électronique et Interfaçage*  
+*Département de Génie Informatique*  
+*Polytechnique Yaoundé, 2024*
