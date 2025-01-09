@@ -1,0 +1,11 @@
+# ninja log v6
+48	207	7581366426410252	C:/Users/brayanarmel/Documents/4GI/Electronique/module_core/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	d4283ad1f131ed9c
+178	462	7581363908159980	module_core_autogen/timestamp	ef55bd8fa5968580
+473	4442	7581363909159985	CMakeFiles/module_core.dir/main.cpp.obj	b334dbbfcf4b49ed
+178	462	7581363908159980	module_core_autogen/mocs_compilation.cpp	ef55bd8fa5968580
+468	631	7581363909109981	CMakeFiles/module_core.dir/module_core_autogen/mocs_compilation.cpp.obj	c74cb27ebc6f146e
+178	462	7581363908159980	C:/Users/brayanarmel/Documents/4GI/Electronique/module_core/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/module_core_autogen/timestamp	ef55bd8fa5968580
+178	462	7581363908159980	C:/Users/brayanarmel/Documents/4GI/Electronique/module_core/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/module_core_autogen/mocs_compilation.cpp	ef55bd8fa5968580
+4448	4920	7581363948915894	module_core.exe	216c8c98e71c9d09
+208	1321	7581366436382229	build.ninja	86ab5e98a8f6dea4
+57	231	7581366438920100	C:/Users/brayanarmel/Documents/4GI/Electronique/module_core/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	d4283ad1f131ed9c
