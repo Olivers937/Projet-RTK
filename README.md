@@ -65,12 +65,17 @@ Our team consists of students passionate about technological innovation and comm
 Our repository is structured to facilitate access to project resources. Below is the detailed structure:
 
 ```
-📁 RTK/
+📁 PROJET-RTK/
 ├── 📁 include/
 │   ├── 📁 types/
 ├── 📁 src/
+│   ├── 📁 communication/
 │   ├── 📁 core/
-└── 📄 main.cpp
+│   ├── 📁 geolocation/
+│   ├── 📁 obstacle_detection/
+│   ├── 📁 types/
+|   └── 📄 main.cpp
+└── 📄 README.md
 ```
 
 ## Contribution
