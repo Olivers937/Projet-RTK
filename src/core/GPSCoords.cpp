@@ -18,6 +18,9 @@ GPSCoords::GPSCoords(double latitude, double longitude) {
 /**
  * @brief Calculates the euclidian distance to another point (GPSCoords)
  */
+//Mec, pour deux points qui sont sur la terre, ce n'est sur tout pas comme ça qu'on calcule la distance qui les sépare.
+//Là, tu n'as calculé que la distance de la corde qui sous-tend la distance réelle à parcourir, qui est celle de l'arc de cercle sous-tendu par la corde précédente.
+
 double GPSCoords::distance(GPSCoords p) const {
     return std::sqrt(std::pow((m_latitude - p.m_latitude), 2) + std::pow((m_longitude - p.m_longitude), 2));
 }
