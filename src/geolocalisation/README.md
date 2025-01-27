@@ -41,6 +41,8 @@ pip install -r requirements.txt
 
 1. executer le fichier main.py
 ```bash
-python main.py
+python3 main.py
+
+python3 exec.py
 ```
 Les cartes générées (fichiers HTML) s'ouvrent dans votre navigateur web.
