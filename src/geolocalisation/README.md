@@ -10,7 +10,12 @@ project_folder/
 │   README.md
 │   osm_location_finder.py
 │   main.py
+|   exec.py 
 └───osm_tiles/
+        |
+        |__data/
+        |__maps/
+        |__titles/
 ```
 
 ## Configuration de l'environnement
