@@ -75,7 +75,7 @@ Temps de réponse : Temps réel
 ## État d'avancement
 - [x] Étude de faisabilité
 - [x] Conception du système
-- [ ] Développement du prototype
+- [x] Développement du prototype
 - [ ] Tests sur le terrain
 - [ ] Déploiement pilote
 
