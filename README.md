@@ -77,7 +77,47 @@ Our repository is structured to facilitate access to project resources. Below is
 |   └── 📄 main.cpp
 └── 📄 README.md
 ```
+## Building the APK
+To generate the Android application package (APK):
 
+1. Open the project in Android Studio
+```bash
+File > Open > [Project Directory]
+```
+2. Sync the project with Gradle files
+```bash
+bashCopyTools > Android > Sync Project with Gradle Files
+```
+3. Build the project
+```
+bashCopyBuild > Make Project
+```
+4. Generate signed APK
+```
+bashCopyBuild > Generate Signed Bundle/APK
+```
+5. Follow the signing wizard:
+  - Select 'APK'
+  - Create or choose an existing keystore
+  - Fill in the required certificate information
+  - Select release build type
+  - Choose destination folder
+
+The generated APK will be located in: **bashCopyapp/release/app-release.apk**
+
+6. System Requirements
+  - Android Studio version 4.0 or higher
+  - JDK 8 or higher
+  - Minimum SDK: Android 19 (KitKat)
+  - Target SDK: Android 23
+
+7. Troubleshooting
+  If you encounter build errors:
+  - Clean project: Build > Clean Project
+  - Invalidate caches: File > Invalidate Caches / Restart
+  - Update Gradle version in build.gradle
+  - Ensure all dependencies are properly synchronized
+    
 ## Contribution
 We welcome contributions from the academic community and industry professionals. To contribute:
 
